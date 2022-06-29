@@ -32,4 +32,8 @@ tag_permalink_style:  pretty
 
 sass:
   sass_dir: _sass
+<<<<<<< HEAD
   style: compressed
+=======
+  style: compressed
+>>>>>>> 7ad3f11f09621ee1e49e637630a03b3cc8e7c36b
